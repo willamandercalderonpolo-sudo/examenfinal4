@@ -1,0 +1,17 @@
+## Archivos de Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Carpetas de compilación
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+.vs/
+
+## Archivos temporales
+*~
