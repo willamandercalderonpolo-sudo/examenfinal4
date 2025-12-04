@@ -12,7 +12,7 @@ Sistema en C# para gestionar reservas de combos en una cafetería universitaria 
 
 ## Requisitos
 - .NET Framework 4.7.2 o superior
-- Visual Studio 2019+
+- Visual Studio 2026
 
 ## Ejecución
 1. Abrir el proyecto en Visual Studio
